@@ -1,0 +1,14 @@
+body 
+{
+    margin: 25px;
+    padding: 25px;
+    align-content: center;
+}
+
+canvas 
+{
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
+}
